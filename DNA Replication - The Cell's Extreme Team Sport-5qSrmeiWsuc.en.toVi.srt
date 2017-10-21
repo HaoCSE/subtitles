@@ -1,0 +1,200 @@
+1
+00:00:00,000 --> 00:00:03,680
+Phụ đề đang bật. Nhấp vào nút CC ở dưới cùng bên phải để tắt.
+
+2
+00:00:03,680 --> 00:00:08,300
+Theo chúng tôi trên Twitter (@amoebasisters) và Facebook!
+
+3
+00:00:08,340 --> 00:00:14,000
+DNA. Chúng tôi nói về nó rất nhiều --- nó là giám đốc cuối cùng cho các tế bào và nó mã số cho
+
+4
+00:00:14,000 --> 00:00:19,930
+đặc điểm của bạn. Đó là một thành phần chính của những gì làm cho bạn, bạn. Khi bạn thực sự quan trọng
+
+5
+00:00:19,930 --> 00:00:25,190
+phân tử như DNA cuối cùng chịu trách nhiệm kiểm soát tế bào ... nó sẽ có ý nghĩa
+
+6
+00:00:25,190 --> 00:00:32,190
+rằng khi bạn tạo ra một tế bào khác (như trong phân bào), bạn cũng cần phải có thêm DNA vào đó
+
+7
+00:00:32,500 --> 00:00:39,460
+tế bào. Và điều đó giới thiệu chủ đề nhân bản DNA của chúng ta, có nghĩa là tạo ra nhiều DNA hơn.
+
+8
+00:00:39,460 --> 00:00:46,460
+Đầu tiên chúng ta hãy nói về nơi và thời gian. Đầu tiên, nơi --- nó xảy ra trong hạt nhân. Nếu tế bào
+
+9
+00:00:48,079 --> 00:00:54,070
+có một hạt nhân. Hãy nhớ rằng, không phải tất cả các tế bào đều có một hạt nhân. Đoạn video này thật sự đang diễn ra
+
+10
+00:00:54,070 --> 00:01:00,969
+để tập trung vào các loại tế bào mà có một hạt nhân mặc dù được gọi là tế bào eukaryote.
+
+11
+00:01:00,969 --> 00:01:07,969
+Các sinh vật tiền nhân, những tế bào thiếu một hạt nhân, làm những điều khác nhau một chút. Tiếp theo
+
+12
+00:01:13,819 --> 00:01:19,860
+điều này xảy ra --- điều này thường diễn ra trong một giai đoạn được gọi là interphase. Interphase
+
+13
+00:01:19,860 --> 00:01:25,119
+là khi một tế bào đang phát triển, nó đang tiến hành các quá trình tế bào, và nó tái tạo
+
+14
+00:01:25,119 --> 00:01:31,119
+DNA của nó. Bạn biết những gì nó không làm cùng một lúc? Chia. Bạn không
+
+15
+00:01:31,119 --> 00:01:36,030
+muốn một tế bào được sao chép DNA và chia ra cùng một lúc. Đó là một chút
+
+16
+00:01:36,030 --> 00:01:43,020
+bit quá nhiều đa nhiệm. Vì sao nhân bản DNA không xảy ra trong quá trình phân chia tế bào (aka
+
+17
+00:01:43,020 --> 00:01:50,020
+mitosis). Trong thực tế, tế bào tái tạo DNA của nó trước khi quá trình phân chia như mitosis
+
+18
+00:01:50,099 --> 00:01:56,090
+và bào tử phân tử. Bởi vì một khi bạn làm cho tế bào mới, bạn tốt hơn có DNA để đưa vào đó.
+
+19
+00:01:56,090 --> 00:02:01,399
+Tôi nghĩ rằng nhân rộng DNA thực sự sẽ làm cho một trò chơi video tuyệt vời. Nó thực sự khá
+
+20
+00:02:01,399 --> 00:02:05,940
+thú vị. Tôi sẽ giới thiệu những người chơi chính trong quá trình sao chép DNA để bạn có thể
+
+21
+00:02:05,940 --> 00:02:11,810
+nhận được một số thông tin cơ bản. Đa số những người chơi chính này mà tôi sẽ giới thiệu
+
+22
+00:02:11,810 --> 00:02:18,319
+là các enzyme. Trong sinh học, khi bạn thấy một cái gì đó kết thúc bằng -ase, bạn có thể muốn kiểm tra như
+
+23
+00:02:18,319 --> 00:02:24,060
+rất có thể đó là một enzyme. Enzyme có khả năng tăng tốc phản ứng
+
+24
+00:02:24,060 --> 00:02:31,060
+và xây dựng hoặc phá vỡ các mục mà họ hành động. Vì vậy, ở đây chúng tôi đi với các cầu thủ chủ chốt.
+
+25
+00:02:32,319 --> 00:02:39,230
+Helicase - enzyme giải phóng. Nếu bạn nhớ lại rằng DNA có 2 sợi, bạn có thể nghĩ đến helicase
+
+26
+00:02:39,230 --> 00:02:44,090
+giải nén hai sợi ADN. Helicase không có một thời gian khó khăn để làm điều đó. Các
+
+27
+00:02:44,090 --> 00:02:46,370
+liên kết hydro giữ các sợi ADN với nhau là khá yếu so với các loại khác
+
+28
+00:02:46,370 --> 00:02:49,879
+trái phiếu. DNA Polymerase - nhà xây dựng. Enzyme này sao chép các phân tử DNA để thực sự xây dựng
+
+29
+00:02:49,879 --> 00:02:56,879
+một sợi ADN mới. Primase- Người khởi tạo. Với số lượng lớn DNA polymerase, DNA kém
+
+30
+00:02:57,379 --> 00:03:02,510
+polymerase không thể tìm ra nơi để bắt đầu mà không có cái gọi là mồi.
+
+31
+00:03:02,510 --> 00:03:07,030
+Primase làm primer để DNA polymerase có thể tìm ra nơi để bắt đầu để làm việc.
+
+32
+00:03:07,030 --> 00:03:12,359
+Bạn biết cái gì thú vị về mồi mà nó tạo ra? Nó thực sự là một mảnh
+
+33
+00:03:12,359 --> 00:03:19,359
+của RNA. Ligase-gluer. Nó giúp kết hợp các mảnh ADN keo với nhau. Tìm hiểu thêm về lý do bạn muốn
+
+34
+00:03:20,709 --> 00:03:26,829
+cần điều đó sau. Đừng cảm thấy quá tải. Chúng ta sẽ đi qua trình tự theo thứ tự. Xin vui lòng
+
+35
+00:03:26,829 --> 00:03:32,099
+lưu ý rằng, giống như tất cả các video của chúng tôi, chúng tôi có xu hướng đưa ra bức tranh lớn nhưng ở đó
+
+36
+00:03:32,099 --> 00:03:38,409
+luôn luôn chi tiết hơn cho mọi quá trình sinh học. Có nhiều liên quan hơn những gì
+
+37
+00:03:38,409 --> 00:03:44,319
+chúng tôi bao gồm. Sao chép DNA bắt đầu ở một phần nhất định được gọi là nguồn gốc. Thường là phần này
+
+38
+00:03:44,319 --> 00:03:50,310
+được xác định bằng các trình tự ADN nhất định. Có thể có nhiều nguồn gốc trong chuỗi DNA.
+
+39
+00:03:50,310 --> 00:03:57,310
+Tại nguồn gốc, helicase (enzyme giải nén) đi vào và giải phóng DNA.
+
+40
+00:03:57,420 --> 00:04:05,160
+Protein SSB (viết tắt của protein liên kết đơn sợi) gắn với các chuỗi ADN để giữ
+
+41
+00:04:05,170 --> 00:04:11,790
+họ tách ra. Primase đi vào và làm cho mồi RNA trên cả hai sợi. Điều này thực sự
+
+42
+00:04:11,790 --> 00:04:17,290
+quan trọng vì nếu không thì DNA polymerase sẽ không biết bắt đầu từ đâu.
+
+43
+00:04:17,400 --> 00:04:24,780
+Bây giờ đến DNA Polymerase. Hãy nhớ rằng, đó là enzym quan trọng mà thêm các cơ sở DNA.
+
+44
+00:04:24,789 --> 00:04:30,180
+Bây giờ bạn có 2 sợi phải không? Nhưng chúng không giống nhau. Hãy nhớ rằng chúng bổ sung cho nhau. Họ
+
+45
+00:04:30,180 --> 00:04:37,180
+cũng là chống song song vì vậy họ không thực sự đi theo cùng một hướng.
+
+46
+00:04:37,180 --> 00:04:44,100
+Với DNA, chúng tôi không nói nó đi Bắc hay Nam. Các hướng cho các sợi ADN có một chút khác biệt.
+
+47
+00:04:44,110 --> 00:04:51,110
+Chúng tôi nói rằng DNA hoặc đi 5 'đến 3' hoặc 3 'đến 5'. Những gì trên thế giới làm điều đó
+
+48
+00:04:51,340 --> 00:05:01,000
+nghĩa là? Đường DNA là một phần của xương sống của DNA. Nó có cacbon. Các nguyên tử cacbon
+
+49
+00:05:01,000 --> 00:05:08,000
+trên đường được đánh số ngay sau khi oxy theo chiều kim đồng hồ. 1 ', 2'
+
+50
+00:05:08,180 --> 00:05:17,020
+3 ', 4' và 5. 'Carbon 5' thực ra nằm ngoài cấu trúc vòng. Bây giờ bạn làm
+
